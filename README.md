@@ -26,4 +26,4 @@ las siguientes variables:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_NO6TeDyIHHf1LTOn1a8egbPH_1D2i4YD0wW1DEyYw&s" width="100%" align="center">
 
 ## Descripción general
-El objetivo del proyecto es comprener GIT
+El objetivo del proyecto es comprender GIT
